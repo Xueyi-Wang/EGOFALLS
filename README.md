@@ -1,13 +1,6 @@
 # EGOFALLS
 
 ![videos](https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/eeee875f-ac77-44ec-96f5-95725ff122b7)
-%![2](https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/9c1b34aa-f7b9-4f85-a434-7c022c2a4ecd)
-
-
-
-%https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/02691fe5-853f-4ee0-9fe1-ce1d6be500fc
-
-
 
 
 # The dataset is under review of dataveerseNL. I will update the link later.
