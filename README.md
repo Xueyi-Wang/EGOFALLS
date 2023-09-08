@@ -1,6 +1,25 @@
 # EGOFALLS
 Here is the repository for the dataset of EGOFALLS. EGOFALLS: A visual-audio dataset and benchmark for fall detection using egocentric cameras
 
+Date of data collection: From 2018 to 2022
+
+Location: Groningen, Netherlands
+
+Equipment: Cameras: OnReal G1 (RGB), CAMMHD Bodycams (RGB and Infrared)
+
+Number of subjects: 14 (12 male and 2 female)
+
+Age: 20-60
+
+Location of the camera: Neck and Waist
+
+Environment: Indoor and outdoor
+
+Keywords: Fall detection, multi-modality of vision-audio.
+
+
+
+
 
 # I will update the link of dataversenl for the dataset later.
 
