@@ -17,7 +17,8 @@ Environment: Indoor and outdoor
 
 Keywords: Fall detection, multi-modality of vision-audio.
 
-![Uploading WX20230908-123836@2x.png…]()
+<img width="1108" alt="WX20230908-123836" src="https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/f855201d-8b08-472e-bba5-533b0d43045f">
+
 
 
 
