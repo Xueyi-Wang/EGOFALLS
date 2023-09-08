@@ -24,6 +24,10 @@ Quantity and type of video clips per participant., where C1 and C2 refer to came
 <img width="1108" alt="WX20230908-123836" src="https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/f855201d-8b08-472e-bba5-533b0d43045f">
 
 
+<img width="786" alt="WX2" src="https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/63960f60-3b3e-4292-9292-d83c25f90076">
+
+
+
 
 
 
