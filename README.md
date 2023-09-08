@@ -49,4 +49,4 @@ Then we will have two zip files like the following:
 <img width="744" alt="wx5" src="https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/d5192c9d-3ef5-4cfd-b753-6363ec58f1bf">
 
 
-For Paper "Fall detection with a non-intrusive and first-person vision approach", we only used data from five subjects, since the paper was finished before the complete of the whole dataset. 
+For Paper "Fall detection with a non-intrusive and first-person vision approach", we only used data from five subjects (Subject-H, Subject-W, Subject-R, Subject-M, Subject-X), since the paper was finished before the complete of the whole dataset. 
