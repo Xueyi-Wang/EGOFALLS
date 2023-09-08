@@ -1,16 +1,7 @@
 # EGOFALLS
-![videos](https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/eeee875f-ac77-44ec-96f5-95725ff122b7)
+
 
 ![2](https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/9c1b34aa-f7b9-4f85-a434-7c022c2a4ecd)
-
-
-
-Uploading 2Screen Recording 2023-09-08 at 18.10.11.mov…
-
-
-
-Uploading 2Screen Recording 2023-09-08 at 18.10.11.mov…
-
 
 
 # The dataset is under review of dataveerseNL. I will update the link later.
