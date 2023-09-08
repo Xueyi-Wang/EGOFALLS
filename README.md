@@ -5,7 +5,7 @@ Examples of 12 activities, including four kifnds of falls and nine kinds of non-
 ![bigger](https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/fc7cc58f-1c8e-4c08-8da5-4b9caef27134)
 
 
-# The dataset is under review of dataveerseNL. I will update the link later.
+# The dataset is under review by dataveerseNL. The link will be updated later.
 
 Here is the repository for the dataset of EGOFALLS. EGOFALLS: A visual-audio dataset and benchmark for fall detection using egocentric cameras
 
