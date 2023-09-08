@@ -1,5 +1,7 @@
 # EGOFALLS
 
+Examples of 12 activities, including four kifnds of falls and nine kinds of non-falls.
+
 ![videos](https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/eeee875f-ac77-44ec-96f5-95725ff122b7)
 
 
