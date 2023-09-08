@@ -7,6 +7,7 @@ Examples of 12 activities, including four kifnds of falls and nine kinds of non-
 
 ![videos](https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/7d5c5c54-697d-43d1-bfa1-bf3e7c9e20ac)
 
+![4](https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/109b0d2e-931d-40a0-bd0a-4815ace701ad)
 
 
 
