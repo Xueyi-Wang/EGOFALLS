@@ -23,6 +23,6 @@ Keywords: Fall detection, multi-modality of vision-audio.
 
 
 
-# I will update the link of dataversenl for the dataset later.
+# The dataset is under review of dataveerseNL. I will update the link later.
 
 For Paper "Fall detection with a non-intrusive and first-person vision approach", we only used data from five subjects, since the paper was finished before the complete of the whole dataset. 
