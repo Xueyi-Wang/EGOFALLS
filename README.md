@@ -1,4 +1,7 @@
 # EGOFALLS
+
+# The dataset is under review of dataveerseNL. I will update the link later.
+
 Here is the repository for the dataset of EGOFALLS. EGOFALLS: A visual-audio dataset and benchmark for fall detection using egocentric cameras
 
 Date of data collection: From 2018 to 2022
@@ -40,17 +43,5 @@ Then we will have two zip files like the following:
 
 <img width="744" alt="wx5" src="https://github.com/Xueyi-Wang/EGOFALLS/assets/55747740/d5192c9d-3ef5-4cfd-b753-6363ec58f1bf">
 
-
-
-
-
-
-
-
-
-
-
-
-# The dataset is under review of dataveerseNL. I will update the link later.
 
 For Paper "Fall detection with a non-intrusive and first-person vision approach", we only used data from five subjects, since the paper was finished before the complete of the whole dataset. 
